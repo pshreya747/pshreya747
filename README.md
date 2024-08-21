@@ -37,7 +37,7 @@
   <br>
   
 
-
+<h2>GitHub Stats:</h2>
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=pshreya747&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pshreya747&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshreya747&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pshreya747&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
