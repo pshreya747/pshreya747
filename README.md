@@ -1,6 +1,6 @@
 <img alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hello 👋, I'm Shreya Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pshreya747&label=Profile%20views&color=0e75b6&style=flat" alt="pshreya747" /> </p>
 <table align="center">
@@ -8,7 +8,7 @@
 <td width="50%" align="left">
   
 
-- 🌱 I’m currently learning **Next.js & MERN**
+- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 💬 Ask me about **C++, Python, JavaScript, DSA**
 
